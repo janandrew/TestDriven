@@ -15,6 +15,6 @@ public class Team8BytesProject
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.print("YOU'VE BEEN HOCK!");
+        System.out.print("YOU'VE BEEN HOCK!!");
     }
 }
